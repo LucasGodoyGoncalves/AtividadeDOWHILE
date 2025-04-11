@@ -33,3 +33,15 @@ Gere números aleatórios de 0 a 100 até acertar o valor da base;
 Exiba:
 Quantos números foram necessários gerar;
 Os números gerados.
+
+Desafio:
+DESAFIO – Número da Sorte
+F.U.P. onde:
+
+O usuário deve digitar o "número da sorte";
+O sistema gera um número aleatório;
+O usuário continuará digitando até acertar;
+O sistema informa se o número é maior ou menor a cada tentativa;
+Ao acertar, o programa mostra:
+O número sorteado;
+Quantas tentativas foram feitas.
